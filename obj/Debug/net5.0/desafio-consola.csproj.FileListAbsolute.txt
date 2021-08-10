@@ -1,0 +1,16 @@
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/desafio-consola
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/desafio-consola.deps.json
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/desafio-consola.runtimeconfig.json
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/desafio-consola.runtimeconfig.dev.json
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/desafio-consola.dll
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/ref/desafio-consola.dll
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/bin/Debug/net5.0/desafio-consola.pdb
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.csproj.AssemblyReference.cache
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.AssemblyInfoInputs.cache
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.AssemblyInfo.cs
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.csproj.CoreCompileInputs.cache
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.dll
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/ref/desafio-consola.dll
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.pdb
+/home/david/Documentos/cursoReact+NetCore/DirMod/desafio-consola/obj/Debug/net5.0/desafio-consola.genruntimeconfig.cache
